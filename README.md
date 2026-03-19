@@ -1,7 +1,5 @@
 # MarketPolitics-AI
 
-**Decode the signals that drive the market.**
-
 ![MarketPolitics-AI Dashboard](marketpolitics_ui.jpg)
 
 ---
