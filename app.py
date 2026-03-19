@@ -280,7 +280,6 @@ Respond in this exact JSON format (no markdown, no backticks):
 
 
 # API ROUTES
-
 @app.route("/")
 def serve_frontend():
     """Serve the index.html dashboard."""
@@ -338,9 +337,7 @@ def api_all():
     })
 
 
-# ═══════════════════════════════════════════════════════
 # ENTRY POINT
-# ═══════════════════════════════════════════════════════
 if __name__ == "__main__":
     PORT = 8080
     print("\n" + "=" * 55)
